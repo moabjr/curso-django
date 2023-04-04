@@ -2,3 +2,4 @@ venv
 test_testando.py
 __pycache__
 .pytest_cache
+main.py
