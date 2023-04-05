@@ -5,12 +5,5 @@ from django.shortcuts import render
 
 
 def home(request):
-    return render(request, 'home.html')
+    return render(request, 'recipes/home.html')
 
-
-def sobre(request):
-    return HttpResponse("Página Sobre")
-
-
-def contato(request):
-    return HttpResponse("Página de Contato")
