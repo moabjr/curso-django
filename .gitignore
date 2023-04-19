@@ -1,9 +1,10 @@
 venv
 test_testando.py
+teste.py
 __pycache__
 .pytest_cache
 main.py
-
+collections
 # Django #
 *.log
 *.pot
