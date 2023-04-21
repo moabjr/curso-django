@@ -4,6 +4,9 @@ teste.py
 __pycache__
 .pytest_cache
 main.py
+aula.txt
+recipes/utils
+
 collections
 # Django #
 *.log
